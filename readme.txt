@@ -13,7 +13,7 @@ The scripts are written in MATLAB. Some helper tools in Python are used for clea
 
 ## Why I wrote this
 
-I needed a workflow that I can re run when I fix data issues or change thresholds. A lot of the code is “research style”: it works, but it’s not a polished package.
+I needed a workflow that I can re run when I fix data issues or change thresholds. A lot of the code is research style: it works, but it’s not a polished package.
 
 ## How to use
 
